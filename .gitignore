@@ -1,2 +1,3 @@
 *.log
-drr/
+/drr/
+static/drr
